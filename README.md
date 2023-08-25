@@ -1,6 +1,6 @@
 # errorhandling
-this code is about handling errors which occur during transactions
-in this code there are three ways
+this code is about handling errors which occur during transactions.
+In this code there are three ways to do so
 # require
 to validate user inputs and enforce preconditions for executing a function. Reverting due to a failed require will refund any remaining gas to the caller.
 # assert
